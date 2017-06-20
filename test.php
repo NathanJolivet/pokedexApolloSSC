@@ -10,6 +10,6 @@ echo "je pense que ca marche comme ca";
 function getX(){
     return 3;
 }
-echo "test ", 2, " ",  getX();
+echo "test ", 2, " ainsi que ",  getX();
 
 ?>
